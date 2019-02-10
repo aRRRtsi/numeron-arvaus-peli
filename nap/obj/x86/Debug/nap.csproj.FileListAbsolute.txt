@@ -1,0 +1,6 @@
+/Users/arrrtsi/Projects/nap/nap/bin/Debug/nap.exe
+/Users/arrrtsi/Projects/nap/nap/bin/Debug/nap.pdb
+/Users/arrrtsi/Projects/nap/nap/obj/x86/Debug/nap.csprojAssemblyReference.cache
+/Users/arrrtsi/Projects/nap/nap/obj/x86/Debug/nap.csproj.CoreCompileInputs.cache
+/Users/arrrtsi/Projects/nap/nap/obj/x86/Debug/nap.exe
+/Users/arrrtsi/Projects/nap/nap/obj/x86/Debug/nap.pdb
